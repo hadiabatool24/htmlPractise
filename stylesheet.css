@@ -1,0 +1,186 @@
+
+ body { 
+  background-color: white;
+}
+
+::selection {
+  background-color: gold;
+  color: red;
+}
+h1 {
+  color: blue;
+  font-family: cursive;
+  font-size: 200%;
+}
+h3 {
+   border: 2px solid blue;
+   padding: 5px;
+   margin: 20px;
+}
+ a:link {
+  color: blue;
+  background-color: transparent;
+  text-decoration: underline;
+ }
+ a:visited {
+  color: purple;
+  background-color: transparent;
+  text-decoration: underline;
+ }
+ a:hover {
+  color:red;
+  background-color:transparent;
+  text-decoration: wavy;
+ }
+ a:active {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+ }
+ .me { 
+  background-color: beige;
+} 
+#h4 {
+ background-color: blanchedalmond;
+}
+
+
+
+table, th,td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+th,td {
+  padding: 10px;
+}
+th {
+  background-color: lightblue;
+  color: black;
+  text-align: left;
+}
+tr:hover { 
+  background-color:rgb(130, 202, 226);
+}
+tr:nth-child(odd) {
+      background-color: rgb(237, 242, 243);
+}
+
+#horizontalfloatlist {
+   background-color: wheat;
+   padding: 1px;
+ }
+
+ .imagebox {
+   display: inline-block;
+    text-align: center;
+    border: 2px solid black;
+    width: 200px;
+    padding: 6px;
+    margin: 4px;
+ }
+
+.imageboxbutton {
+  width: 100%;
+ }
+
+ #transition {
+  margin: auto;
+   height: 50px;
+   width: 100px;
+   background-color: bisque;
+   transition: all 1s ease-out;
+ }
+
+ #transition:hover {
+  background-color: aquamarine;
+  width: 200px;
+  height: 100px;
+  font-size: 40px;
+ }
+
+ #scale {
+  height: 50px;
+  width: 100px;
+  background-color: aqua;
+  transition: all 1s ease-out; 
+}
+
+#scale:hover {
+ background-color: chocolate;
+ transform: scale(3);
+}
+
+ #rotate {
+  height: 50px;
+  width: 100px;
+  background-color: rgb(251, 255, 0);
+  transition: all 3s ease-out
+ }
+
+ #rotate:hover {
+  background-color: rgb(30, 129, 210);
+  transform: rotate(360deg);
+ }
+
+ #translate {
+  height: 50px;
+  width: 100px;
+  background-color: rgb(9, 255, 0);
+  transition: all 1s ease-out
+ }
+
+ #translate:hover {
+  transform: translate(100px);
+ }
+
+ #skew {
+  height: 50px;
+  width: 100px;
+  background-color: rgb(255, 0, 234);
+  transition: all 1s ease-out
+ }
+ #skew:hover{
+  transform: skew(45deg);
+ }
+
+ #animation {
+  height: 50px;
+  width: 100px;
+  text-align: center;
+  background-color: rgb(0, 195, 255);
+  animation: animation 0.75s step-end 0s infinite ;
+ }
+
+ @keyframes animation {
+  from {font-size: 40px; background-color: aquamarine;}
+  to { font-size: 20px; background-color: red;}
+ }
+
+ #loader {
+  height: 20px;
+  width: 20px;
+  border-radius: 50%;
+  border-top: 3px solid rgb(235, 16, 16);
+  border-left: 3px solid rgb(255, 199, 17);
+  border-bottom: 3px solid rgb(10, 184, 10);
+  border-right: 3px solid rgb(13, 42, 175);
+  animation: loader 1s ease-in 0s infinite ;
+ }
+
+
+ @keyframes loader {
+  from{
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+ }
+
+ #opacityimg {
+  opacity: 0.5;
+ }
+
+ #opacityimg:hover {
+  opacity: 1;
+ }

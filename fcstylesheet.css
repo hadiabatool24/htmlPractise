@@ -1,0 +1,37 @@
+
+ 
+h1 { 
+    color: black;
+}
+P {
+    color: black;
+}
+a {
+    color: black
+ }
+
+#horizontalfloatlist {
+ul {
+    list-style-type: none;
+    margin: 0px;
+    padding: 20px;
+    overflow: hidden;
+    background-color: beige;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: antiquewhite;
+    text-align: center;
+    padding: 50px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: wheat;
+  } 
+}

@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>form</title>
+    <style>
+        body {
+            font-family:Arial, Helvetica, sans-serif;
+        }
+       fieldset{
+        background-color: aliceblue;
+       }
+            
+        
+        input,select,textarea {
+            border: 1px solid black; 
+            border-radius: 4px;
+           padding: 3px;
+        }
+        input [type=submit] {
+          width: 50%;
+
+        }
+    </style>
+</head>
+<body>
+    
+    <form action="/firstcode.html" target="_blank" autocomplete="on">
+        <fieldset>
+            <legend><strong>PERSONAL INFO</strong></legend>
+        <label for="firstname">first name:</label><br>
+        <input type="text" id="firstname" name="firstname" autofocus><br>
+       
+        <label for="lastname">lastname:</label><br>
+        <input type="text" id="lastname" name="lastname"><br>
+       
+        <label for="age">age:</label><br>
+        <input type="number" id="age" name="age"><br>
+
+        <label for="email">enter your email:</label><br>
+        <input type="email" name="email" id="email"><br>
+
+        <label for="password" >enter your password:</label><br>
+        <input type="password" name="password" id="password" required><br>
+
+        <label for="phone">enter your phone number</label><br>
+        <input type="tel" name="phone" id="phone" pattern="[0-9]{3}-[0-9]{8}" placeholder="+92-12345678"><br>
+
+        <label for="about">write about your hobbies:</label><br>
+        <textarea name="about" id="about" cols="30" rows="2"></textarea><br> 
+
+        <label for="birthday">when is your birthday</label><br>
+        <input type="date" name="birthday" id="birthday"><br>
+
+        <label for="country">select your country:</label><br>
+         <select id="country" name="country">
+         <option value="united states">united states</option>
+         <option value="canada">canada</option>
+         <option value="australia">australia</option>
+         <option value="germany">germany</option>
+         <option value="italy">italy</option>
+         <option value="pakistan" selected>pakistan</option>
+         <option value="india">india</option>
+         <option value="china">china</option>
+         </select>
+        <br>
+
+           <label for="favcolor">select your favourite color:</label>
+           <input type="color" name="favcolor" id="favcolor">
+
+            <p>select your favourite subject:</p>
+         <input type="radio" id="maths" name="favsubject" value="maths">
+         <label for="maths">maths</label><br>
+
+         <input type="radio" id="physics" name="favsubject" value="physics">
+         <label for="physics">physics</label><br>
+
+         <input type="radio" id="chemistry" name="favsubject" value="chemistry">
+         <label for="chemistry">chemistry</label><br>
+
+        <input type="radio" id="biology" name="favsubject" value="biology">
+         <label for="biology">biology</label><br>
+
+         <input type="radio" id="computer" name="favsubject" value="computer">
+         <label for="computer">computer</label><br>
+
+         <input type="radio" id="history" name="favsubject" value="history">
+         <label for="history">history</label><br>
+
+         <input type="radio" id="none" name="favsubject" value="none">
+         <label for="none">none</label><br>
+
+        
+         <p>which of the following proramming languages do you know:</p>
+         
+         <input type="checkbox" name="HTML" id="HTML">
+         <label for="HTML">HTML</label>
+
+         <input type="checkbox" name="CSS" id="CSS">
+         <label for="CSS">CSS</label>
+
+         <input type="checkbox" name="JAVASCRIPT" id="JAVASCRIPT">
+         <label for="JAVASCRIPT">JAVASCRIPT</label><br>
+
+         <input type="submit" value="submit">
+         <input type="reset" value="reset"><br>
+
+        </fieldset>
+    </form>
+ 
+
+</body>
+</html>
