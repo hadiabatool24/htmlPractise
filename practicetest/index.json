@@ -1,0 +1,378 @@
+[
+    {
+        "name" : "Police",
+        "phoneNo" : "911"
+    },{
+        "name" : "Saudi Red Crescent Authority",
+        "phoneNo" : "997"
+    },{
+        "name" : "Traffic Police",
+        "phoneNo" : "911"
+    },{
+        "name" : "Civil Defense",
+        "phoneNo" : "911"
+    }, {
+        "name" : "Unified Number",
+        "phoneNo" : "911"
+    },{
+        "name" : "Inside KSA",
+        "phoneNo" : " 8004304444"
+    },{
+        "name" : "Outside KSA",
+        "phoneNo" : "+966 9200 02814"
+    },{
+        "name" : "Saudi Airlines",
+        "phoneNo" : "920022222"
+    },{
+        "name" : "Embassy Republic of Zambia",
+        "phoneNo" : "00 966 11 454 2295"
+    },{
+        "name" : "Embassy Republic of Yemen",
+        "phoneNo" : "00 966 11 482 6750"
+    },{
+        "name" : "Vietnamese Embassy",
+        "phoneNo" : "00 966 11 454 7887"
+    },{
+        "name" : "Venezuelan Embass",
+        "phoneNo" : "00 966 11 480 7141"
+    },{
+        "name" : "Uzbekistani Embassy",
+        "phoneNo" : "00 966 11 263 5223"
+    },{
+        "name" : "Republic of Uruguay Embassy",
+        "phoneNo" : "00 966 11 462 0739"
+    },{
+        "name" : "Uruguayan Embassy",
+        "phoneNo" : "00 966 11 450 8536"
+    },{
+        "name" : "Ugandan Embassy",
+        "phoneNo" : "00 966 11 454 4910"
+    },{
+        "name" : "US Embassy",
+        "phoneNo" : "00 966 11 488 3800"
+    },{
+        "name" : "Turkmen Embassy",
+        "phoneNo" : "00 966 11 205 4898"
+    },{
+        "name" : "Turkish Embassy",
+        "phoneNo" : "00 966 11 482 0101"
+    },{
+        "name" : "Tunisian Embassy",
+        "phoneNo" : "00 966 11 488 7900"
+    },{
+        "name" : "Thai Embassy",
+        "phoneNo" : "00 966 11 488 1174"
+    },{
+        "name" : "Tanzanian Embassy",
+        "phoneNo" : "00 966 11 205 0310"
+    },{
+        "name" : "Syrian Embassy",
+        "phoneNo" : "00 966 11 488 7481"
+    },{
+        "name" : "Swiss Embassy",
+        "phoneNo" : "00 966 11 488 1291"
+    },{
+        "name" : "Swedish Embassy",
+        "phoneNo" : "00 966 11 488 3100"
+    },{
+        "name" : "Sudanese Embassy",
+        "phoneNo" : "00 966 11 488 7388"
+    },{
+        "name" : "Sri Lankan Embassy",
+        "phoneNo" : "00 966 11 460 8689"
+    },{
+        "name" : "Spanish Embassy",
+        "phoneNo" : "00 966 11 488 0606"
+    },{
+        "name" : "South African Embassy",
+        "phoneNo" : "00 966 11 442 9716"
+    },{
+        "name" : "Somali Embassy",
+        "phoneNo" : "00 966 11 463 2774"
+    },{
+        "name" : "Singaporean Embassy",
+        "phoneNo" : "00 966 11 480 3855"
+    },{
+        "name" : "Sierra leonean Embassy",
+        "phoneNo" : "00 966 11 494 1303"
+    },{
+        "name" : "Senegalese Embassy",
+        "phoneNo" : "0096611488015711"
+    },{
+        "name" : "Russian Embassy",
+        "phoneNo" : "00 966 11 481 1432"
+    },{
+        "name" : "Romanian Embassy",
+        "phoneNo" : "00 966 11 456 6205"
+    },{
+        "name" : "Qatari Embassy",
+        "phoneNo" : "00 966 11 482 5685"
+    },{
+        "name" : "Portuguese Embassy",
+        "phoneNo" : "00 966 11 462 2115"
+    },{
+        "name" : "Poland Embassy",
+        "phoneNo" : "00 966 11 450 8889"
+    },{
+        "name" : "Phillipine Embassy",
+        "phoneNo" : "00 966 11 482 3559"
+    },{
+        "name" : "Palestinian Embassy",
+        "phoneNo" : "00 966 11 488 0744"
+    },{
+        "name" : "Pakistani Embassy",
+        "phoneNo" : "00 966 11 488 7272"
+    },{
+        "name" : "Omani Embassy",
+        "phoneNo" : "00 966 11 482 3120"
+    },{
+        "name" : "Norwegian Embassy",
+        "phoneNo" : "00 966 11 488 1904"
+    },{
+        "name" : "Nigerian Embassy",
+        "phoneNo" : "00 966 11 482 3024"
+    },{
+        "name" : "New Zealand Embassy",
+        "phoneNo" : "00 966 11 488 7988"
+    },{
+        "name" : "Nepali Embassy",
+        "phoneNo" : "00 966 11 461 1108"
+    },{
+        "name" : "Myanmer Embassy",
+        "phoneNo" : "00 966 11 229 3523"
+    },{
+        "name" : "Moroccan Embassy",
+        "phoneNo" : "00 966 11 482 6382"
+    },{
+        "name" : "Mexican Embassy",
+        "phoneNo" : "00 966 11 480 8822"
+    },{
+        "name" : "Maltese Embassy",
+        "phoneNo" : "00 966 11 463 2345"
+    },{
+        "name" : "Malian Embassy",
+        "phoneNo" : "00 966 11 229 0753"
+    },{
+        "name" : "Malaysian Embassy",
+        "phoneNo" : "00 966 11 488 7098"
+    },{
+        "name" : "Libyan Embassy",
+        "phoneNo" : "00 966 11 483 1327"
+    },{
+        "name" : "Liberian Embassy",
+        "phoneNo" : "00 966 11 450 3602"
+    },{
+        "name" : "Lebanese Embassy",
+        "phoneNo" : "00 966 11 480 4060"
+    },{
+        "name" : "Kuwaiti Embassy",
+        "phoneNo" : "00 966 11 488 3500"
+    },{
+        "name" : "Kosovar Embassy",
+        "phoneNo" : "00 966 11 281 5822"
+    },{
+        "name" : "Korean Embassy",
+        "phoneNo" : "00 966 11 488 2211"
+    },{
+        "name" : "Kenyan Embassy",
+        "phoneNo" : "00 966 11 488 2484"
+    },{
+        "name" : "Kazakhstani Embassy",
+        "phoneNo" : "00 966 11 480 6406"
+    },{
+        "name" : "Jordanian Embassy",
+        "phoneNo" : "00 966 11 488 0071"
+    },{
+        "name" : "Japanese Embassy",
+        "phoneNo" : "00 966 11 488 1100"
+    },{
+        "name" : "Ivory Coast Embassy",
+        "phoneNo" : "00 966 11 470 8499"
+    },{
+        "name" : "Italian Embassy",
+        "phoneNo" : "00 966 11 488 1212"
+    },{
+        "name" : "Ireland Embassy",
+        "phoneNo" : "00 966 11 488 2300"
+    },{
+        "name" : "Iraqi Embassy",
+        "phoneNo" : "00 966 11 480 6514"
+    },{
+        "name" : "Iranian Embassy",
+        "phoneNo" : "00 966 11 488 1916"
+    },{
+        "name" : "Indonesian Embassy",
+        "phoneNo" : "00 966 11 488 2800"
+    },{
+        "name" : "Indian Embassy",
+        "phoneNo" : "00 966 11 488 4144"
+    },{
+        "name" : "Hungarian Embassy",
+        "phoneNo" : "00 966 11 454 6707"
+    },{
+        "name" : "Greek Embassy",
+        "phoneNo" : "00 966 11 480 1974"
+    },{
+        "name" : "Ghanian Embassy",
+        "phoneNo" : "00 966 11 454 5122"
+    },{
+        "name" : "German Embassy",
+        "phoneNo" : "00 966 11 488 0700"
+    },{
+        "name" : "Gambian Embassy",
+        "phoneNo" : "00 966 11 205 2158"
+    },{
+        "name" : "Gabon Embassy",
+        "phoneNo" : "00 966 11 456 7173"
+    },{
+        "name" : "French Embassy",
+        "phoneNo" : "00 966 11 488 1255"
+    },{
+        "name" : "Finnish Embassy",
+        "phoneNo" : "00 966 11 488 1515"
+    },{
+        "name" : "Federal Republic of Nigeria Embassy",
+        "phoneNo" : "00 966 11 482 3024"
+    },{
+        "name" : "Ethiopian Embassy",
+        "phoneNo" : "00 966 11 482 4056"
+    },{
+        "name" : "Eritrean Embassy",
+        "phoneNo" : "00 966 11 482 1545"
+    },{
+        "name" : "Emirati Embassy",
+        "phoneNo" : "00 966 11 488 1227"
+    },{
+        "name" : "Embassy of Cuba",
+        "phoneNo" : "00 966 11 464 2492"
+    },{
+        "name" : "Egyptian Embassy",
+        "phoneNo" : "00 966 11 481 0464"
+    },{
+        "name" : "Dutch Embassy",
+        "phoneNo" : "00 966 11 442 2300"
+    },{
+        "name" : "Djiboutian Embassy",
+        "phoneNo" : "00 966 11 454 3182"
+    },{
+        "name" : "Danish Embassy",
+        "phoneNo" : "00 966 11 488 0101"
+    },{
+        "name" : "Czech Embassy",
+        "phoneNo" : "00 966 11 450 3619"
+    },{
+        "name" : "Comorian Embassy",
+        "phoneNo" : "00 966 11 293 6002"
+    },{
+        "name" : "Chineese Embassy",
+        "phoneNo" : "00 966 11 483 2126"
+    },{
+        "name" : "Chadian Embassy",
+        "phoneNo" : "00 966 11 405 5999"
+    },{
+        "name" : "Canadian Embassy",
+        "phoneNo" : "00 966 11 488 2288"
+    },{
+        "name" : "Cameroonian Embassy",
+        "phoneNo" : "00 966 11 488 0022"
+    },{
+        "name" : "Burkinabe Embassy",
+        "phoneNo" : "00 966 11 465 2244"
+    },{
+        "name" : "Bruneian Embassy",
+        "phoneNo" : "00 966 11 456 0814"
+    },{
+        "name" : "British Embassy",
+        "phoneNo" : "00 966 11 481 9100"
+    },{
+        "name" : "Brazilian Embassy",
+        "phoneNo" : "00 966 11 488 0018"
+    },{
+        "name" : "Bosnian and Herzevinian Embassy",
+        "phoneNo" : "00 966 11 456 4914"
+    },{
+        "name" : "Belgian Embassy",
+        "phoneNo" : "00 966 11 488 2888"
+    },{
+        "name" : "Bangladeshi Embassy",
+        "phoneNo" : "00 966 11 419 5300"
+    },{
+        "name" : "Bahraini Embassy",
+        "phoneNo" : "00 966 11 488 0044"
+    },{
+        "name" : "Austrian Embassy",
+        "phoneNo" : "00 966 11 480 1217"
+    },{
+        "name" : "Austrian Embassy",
+        "phoneNo" : "00 966 11 480 1217"
+    },{
+        "name" : "Australian Embassy",
+        "phoneNo" : "00 966 11 488 7788"
+    },{
+        "name" : "Argentinean Embassy",
+        "phoneNo" : "00 966 11 201 1922"
+    },{
+        "name" : "Algerian Embassy",
+        "phoneNo" : "00 966 11 488 7171"
+    },{
+        "name" : "Albanian Embassy",
+        "phoneNo" : "00 966 11 281 6535"
+    },{
+        "name" : "ministry of hajj and umrah",
+        "phoneNo" : "8004304444"
+    },{
+        "name" : "aljedani hospital 1",
+        "phoneNo" : "966 126 368 100"
+    },{
+        "name" : "aljedani hospital 2",
+        "phoneNo" : " 966 126 772 221"
+    },{
+        "name" : "United Hospital",
+        "phoneNo" : "966 126 533 333"
+    },{
+        "name" : "al hamra hospital",
+        "phoneNo" : "966 126 653 939"
+    },{
+        "name" : "Dr.Soliman Fakeeh Hospital",
+        "phoneNo" : "966 126 655 000"
+    },{
+        "name" : "Dr. Baksh Hospital",
+        "phoneNo" : "966 126 510 666"
+    },{
+        "name" : "Dr. Ghassan Najeeb Faroun Hospital",
+        "phoneNo" : "966 126 823 200"
+    },{
+        "name" : "german hospital jeddah",
+        "phoneNo" : "920007997"
+    },{
+        "name" : "imc hospital",
+        "phoneNo" : "966 126 509 000"
+    },{
+        "name" : "king fahd hospital",
+        "phoneNo" : "966 126 606 111"
+    },{
+        "name" : "bagedo hospital",
+        "phoneNo" : "966 126 038 888"
+    },{
+        "name" : "alnoor hospital",
+        "phoneNo" : "966 125 665 000"
+    },{
+        "name" : "basharahil hospital",
+        "phoneNo" : "96625204444"
+    },{
+        "name" : "al ansar hospital madinah",
+        "phoneNo" : "966 148 387 216"
+    },{
+        "name" : "Mouwasat Hospital Madinah",
+        "phoneNo" : "966 148 422 211"
+    },{
+        "name" : "emirates",
+        "phoneNo" : "8008500022"
+    },{
+        "name" : "Pakistan International Airlines",
+        "phoneNo" : "966 126 435 933"
+    },{
+        "name" : "Airindia",
+        "phoneNo" : "966 122 632 994"
+    } 
+]

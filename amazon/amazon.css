@@ -25,7 +25,7 @@
    height: 50px;
    width: 100px;
    font: 15px;
-   background-image: url(/practicetest/amazon_logo.png);
+   background-image: url(/amazon/amazon_logo.png);
    background-size: cover;
 }
 
@@ -168,7 +168,7 @@
 
 /* shopping section */
 .main {
-    background-image: url(/practicetest/heroimage.jpg);
+    background-image: url(/amazon/amazonbackground.jpg);
     background-size: contain;
 }
     .herosection{

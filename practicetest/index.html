@@ -6,9 +6,8 @@
     <meta name="keywords"  content="HTML">
     <meta name="description" content="html practice">
     <title>index.html</title>
-    <link rel="icon" type="icon" href="/images/favicon (3).ico">
-    <link rel="stylesheet" href="/stylesheet.css"> 
-   
+    <link rel="icon" type="icon" href="/favicons/favicon(h).ico">
+    <link rel="stylesheet" href="/practicetest/stylesheet.css"> 
 </head>
 <body>
 
@@ -288,19 +287,8 @@ alt="google" style="width: 200px;" ></a>
  <p>save the document by pressing <kbd>ctrl+S</kbd></p>
 
  <p>the area of square is <var>l</var><sup>2</sup>,where <var>l</var>  is the length of one side</p>
- 
-<form action="/form.html" oninput="x.value=parseInt(a.value)+parseInt(b.value)">
 
- 0<input type="range" id="a" value="50">100
-  +<input type="number" id="b" value="50">=
-  <output name="x" for="a b">.......</output>
 <br>
-<br>
-
-</form>
-
-  
-
    <br clear="left">
 
    <div id="transition" style="font-family: cursive;">transition </div>
@@ -317,16 +305,29 @@ alt="google" style="width: 200px;" ></a>
 <br>
   <div id="loader"></div>
 <br>
-<p id="demo"> helllo javascript</p>
+<h1 id="demo"> helllo javascript</h1>
+
 <button type="button" onclick="myfunction()">  click me to change style</button>
+<br>
 <script>
   function myfunction() {
   document.getElementById("demo").style.color= "red";
   document.getElementById("demo").style.backgroundColor= "yellow";
   document.getElementById("demo").style.fontSize= "25px";
-}
+} 
 </script>
 <br>
+ <p id="intro"></p>
+ 
+ <br>
+<form action="/form.html" oninput="x.value=parseInt(a.value)+parseInt(b.value)">
+
+ 0<input type="range" id="a" value="50">100
+  +<input type="number" id="b" value="50">=
+  <output name="x" for="a b">.......</output>
+</form>
+<br>
+
 <input type="button" onclick="alert('hello cutie')" value="click here">
 <div>
   <div class="imagebox" id="imagebox1">box 1 <br>
@@ -348,8 +349,7 @@ alt="google" style="width: 200px;" ></a>
    </div>
 </div>
 <br>
-
-
+ 
 
  <script>
      function removeElement() {
@@ -373,6 +373,12 @@ alt="google" style="width: 200px;" ></a>
  <button onclick="document.getElementById('bulb').src='https://media.istockphoto.com/id/157332510/photo/hand-pulling-chain-to-turn-off-light-bulb-green-background.webp?b=1&s=170667a&w=0&k=20&c=jjLTiUah9u_9Wwpd2uoBeBOpsDtc5w1kUxfY12JwVEk='">
   click me to turn off bulb</button>
 <br>
+
+<button onclick="document.getElementById('date').innerHTML=Date()">Current Time</button>
+<br>
+<p id="date"></p>
+
+<p id="demo"></p>
  <a href="#">jump to top of page</a>
 </body>
 </html>
